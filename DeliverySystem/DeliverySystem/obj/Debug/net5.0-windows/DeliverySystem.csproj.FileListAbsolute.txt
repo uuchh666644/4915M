@@ -1,0 +1,9 @@
+C:\Users\a1\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net5.0-windows\DeliverySystem.csproj.AssemblyReference.cache
+C:\Users\a1\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net5.0-windows\DeliverySystem.DeliveryNoteForm.resources
+C:\Users\a1\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net5.0-windows\DeliverySystem.MainForm.resources
+C:\Users\a1\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net5.0-windows\DeliverySystem.ReceiveGoodsForm.resources
+C:\Users\a1\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net5.0-windows\DeliverySystem.csproj.GenerateResource.cache
+C:\Users\a1\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net5.0-windows\DeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net5.0-windows\DeliverySystem.AssemblyInfoInputs.cache
+C:\Users\a1\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net5.0-windows\DeliverySystem.AssemblyInfo.cs
+C:\Users\a1\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net5.0-windows\DeliverySystem.csproj.CoreCompileInputs.cache
