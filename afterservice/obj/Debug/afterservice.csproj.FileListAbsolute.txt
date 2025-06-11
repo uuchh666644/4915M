@@ -1,0 +1,65 @@
+C:\Users\a1\source\repos\afterservice\afterservice\obj\Debug\afterservice.csproj.AssemblyReference.cache
+C:\Users\a1\source\repos\afterservice\afterservice\obj\Debug\afterservice.Form1.resources
+C:\Users\a1\source\repos\afterservice\afterservice\obj\Debug\afterservice.Properties.Resources.resources
+C:\Users\a1\source\repos\afterservice\afterservice\obj\Debug\afterservice.csproj.GenerateResource.cache
+C:\Users\a1\source\repos\afterservice\afterservice\obj\Debug\afterservice.csproj.CoreCompileInputs.cache
+C:\Users\a1\source\repos\afterservice\afterservice\bin\Debug\afterservice.exe.config
+C:\Users\a1\source\repos\afterservice\afterservice\bin\Debug\afterservice.exe
+C:\Users\a1\source\repos\afterservice\afterservice\bin\Debug\afterservice.pdb
+C:\Users\a1\source\repos\afterservice\afterservice\bin\Debug\EntityFramework.dll
+C:\Users\a1\source\repos\afterservice\afterservice\bin\Debug\MySql.Data.dll
+C:\Users\a1\source\repos\afterservice\afterservice\bin\Debug\EntityFramework.xml
+C:\Users\a1\source\repos\afterservice\afterservice\obj\Debug\afterservice.csproj.CopyComplete
+C:\Users\a1\source\repos\afterservice\afterservice\obj\Debug\afterservice.exe
+C:\Users\a1\source\repos\afterservice\afterservice\obj\Debug\afterservice.pdb
+C:\Users\a1\Desktop\afterservice\afterservice\bin\Debug\afterservice.exe.config
+C:\Users\a1\Desktop\afterservice\afterservice\bin\Debug\afterservice.exe
+C:\Users\a1\Desktop\afterservice\afterservice\bin\Debug\afterservice.pdb
+C:\Users\a1\Desktop\afterservice\afterservice\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\afterservice\afterservice\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\afterservice\afterservice\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\afterservice\afterservice\obj\Debug\afterservice.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\afterservice\afterservice\obj\Debug\afterservice.Form1.resources
+C:\Users\a1\Desktop\afterservice\afterservice\obj\Debug\afterservice.Properties.Resources.resources
+C:\Users\a1\Desktop\afterservice\afterservice\obj\Debug\afterservice.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\afterservice\afterservice\obj\Debug\afterservice.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\afterservice\afterservice\obj\Debug\afterservice.csproj.CopyComplete
+C:\Users\a1\Desktop\afterservice\afterservice\obj\Debug\afterservice.exe
+C:\Users\a1\Desktop\afterservice\afterservice\obj\Debug\afterservice.pdb
+C:\Users\a1\Downloads\afterservice\afterservice\bin\Debug\afterservice.exe.config
+C:\Users\a1\Downloads\afterservice\afterservice\bin\Debug\afterservice.exe
+C:\Users\a1\Downloads\afterservice\afterservice\bin\Debug\afterservice.pdb
+C:\Users\a1\Downloads\afterservice\afterservice\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\afterservice\afterservice\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\afterservice\afterservice\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterservice.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterservice.Form1.resources
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterservice.loginForm.resources
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterservice.Properties.Resources.resources
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterservice.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterservice.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterservice.exe
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterservice.pdb
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterservice.menu.resources
+C:\Users\a1\Downloads\afterservice\afterservice\obj\Debug\afterser.915272D8.Up2Date
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.Form1.resources
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.loginForm.resources
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.menu.resources
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.Properties.Resources.resources
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.Supplie.resources
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.csproj.GenerateResource.cache
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.exe
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.pdb
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\bin\Debug\afterservice.exe.config
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\bin\Debug\afterservice.exe
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\bin\Debug\afterservice.pdb
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\bin\Debug\MySql.Data.dll
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.csproj.CopyComplete
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.record1.resources
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.Dispatch.resources
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.CreaterequirementMenu.resources
+C:\Users\user\Downloads\新增資料夾 (2)\afterservice\afterservice\afterservice\obj\Debug\afterservice.createreq.resources
